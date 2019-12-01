@@ -1,6 +1,6 @@
 {
   "name": "@rexlabs/downshift",
-  "version": "3.4.5-rc.0",
+  "version": "3.4.5-rc.1",
   "description": "Rexlabs fork - A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete components",
   "main": "dist/@rexlabs/downshift.cjs.js",
   "react-native": "dist/@rexlabs/downshift.native.cjs.js",
