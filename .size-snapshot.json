@@ -56,5 +56,63 @@
         "code": 27675
       }
     }
+  },
+  "dist/@rexlabs/downshift.cjs.js": {
+    "bundled": 82191,
+    "minified": 38067,
+    "gzipped": 9607
+  },
+  "preact/dist/@rexlabs/downshift.cjs.js": {
+    "bundled": 80900,
+    "minified": 37019,
+    "gzipped": 9508
+  },
+  "preact/dist/@rexlabs/downshift.umd.min.js": {
+    "bundled": 93973,
+    "minified": 32103,
+    "gzipped": 9869
+  },
+  "preact/dist/@rexlabs/downshift.umd.js": {
+    "bundled": 108037,
+    "minified": 38159,
+    "gzipped": 11409
+  },
+  "dist/@rexlabs/downshift.umd.min.js": {
+    "bundled": 98612,
+    "minified": 33421,
+    "gzipped": 10430
+  },
+  "dist/@rexlabs/downshift.umd.js": {
+    "bundled": 137197,
+    "minified": 47057,
+    "gzipped": 14019
+  },
+  "dist/@rexlabs/downshift.esm.js": {
+    "bundled": 81810,
+    "minified": 37758,
+    "gzipped": 9548,
+    "treeshaked": {
+      "rollup": {
+        "code": 629,
+        "import_statements": 303
+      },
+      "webpack": {
+        "code": 27632
+      }
+    }
+  },
+  "preact/dist/@rexlabs/downshift.esm.js": {
+    "bundled": 80500,
+    "minified": 36691,
+    "gzipped": 9443,
+    "treeshaked": {
+      "rollup": {
+        "code": 630,
+        "import_statements": 304
+      },
+      "webpack": {
+        "code": 27675
+      }
+    }
   }
 }
